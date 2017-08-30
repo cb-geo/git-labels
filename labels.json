@@ -24,6 +24,7 @@
   { "name": "Type: Maintenance", "color": "#fbca04" },
   { "name": "Type: Performance", "color": "#5319e7" },
   { "name": "Type: Question", "color": "#cc317c" },
+  { "name": "Type: Validation", "color": "#009800" },
   { "name": "Type: Wontfix", "color": "#ffffff" }
 ]
 
