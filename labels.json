@@ -23,6 +23,7 @@
   { "name": "Type: Invalid", "color": "#e6e6e6" },
   { "name": "Type: Maintenance", "color": "#fbca04" },
   { "name": "Type: Performance", "color": "#5319e7" },
+  { "name": "Type: IO", "color": "#5fd3cb" },
   { "name": "Type: Question", "color": "#cc317c" },
   { "name": "Type: Refactor", "color": "#ff1493" },
   { "name": "Type: Validation", "color": "#009800" },
